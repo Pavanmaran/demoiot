@@ -8,7 +8,7 @@ const char* WIFI_PASSWORD = "12345678";
 // --- MQTT ---
 const char* MQTT_BROKER = "broker.hivemq.com"; // public test broker, replace with your own
 const int MQTT_PORT = 1883;
-const char* MQTT_TOPIC = "machinemonitoring/ldr";
+const char* MQTT_TOPIC = "machinemonitoring/ldr/1";
 const char* MQTT_CLIENT_ID = "esp32s3-ldr";
 
 // --- LDR ---
